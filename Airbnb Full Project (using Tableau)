@@ -1,1 +1,10 @@
+This project explores Airbnb listing data through an interactive Tableau dashboard built from an uploaded Excel dataset. The dashboard provides key insights into pricing, revenue, and listing distribution, helping users better understand market trends and patterns.
+🔑 Features
+- Average Price per Bedroom – Visualizes how listing prices vary depending on the number of bedrooms.
+- Revenue by Year – Tracks annual revenue trends to highlight growth or decline over time.
+- Price by Zipcode – Compares listing prices geographically, showing variations across different zipcodes.
+- Price per Zipcode – Offers a detailed breakdown of average prices within each zipcode.
+- Distinct Bedroom Listings – Displays the diversity of available listings based on bedroom count.
+https://public.tableau.com/views/AirBnBFullProject_17700673710340/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
